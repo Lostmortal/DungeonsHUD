@@ -81,9 +81,25 @@ Alternatively, install Mod Menu to access the configuration screen through the i
 
 Mod Menu is optional and is not required for DungeonsHUD to function.
 
+
 ## Screenshots
 
-Screenshots of the HUD and configuration menu will be added in a future update.
+### In-Game Preview
+
+Screenshots showcasing DungeonsHUD during gameplay.
+
+![DungeonsHUD Gameplay 1](images/Screenshot261104_01.png)
+
+![DungeonsHUD Gameplay 2](images/Screenshot261104_02.png)
+
+![DungeonsHUD Gameplay 3](images/Screenshot261104_03.png)
+
+![DungeonsHUD Gameplay 4](images/Screenshot261104_04.png)
+
+![DungeonsHUD Gameplay 5](images/Screenshot261104_05.png)
+
+![DungeonsHUD Gameplay 6](images/Screenshot261104_06.png)
+
 
 ## Downloads
 
