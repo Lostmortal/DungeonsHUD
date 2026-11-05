@@ -25,7 +25,7 @@ The project focuses on visual clarity, smooth animations, and configurable inter
 - Health values and contextual notifications.
 - Vehicle health indicator.
 
-### SoulBar
+### SoulBar 
 
 Two configurable modes:
 
